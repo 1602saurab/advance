@@ -25,3 +25,8 @@ Create a file (requirements.txt) ---> in which we will store all libraries that 
 step-7:
 Create a 'Readme.md' file 
 Create a docs.txt file ---> for project understanding . 
+
+
+python src/train.py 
+
+streamlit run api/app.py 
